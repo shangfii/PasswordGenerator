@@ -18,7 +18,7 @@
  // Write password to the #password input
 
  function writePassword() {
-   choiceArr=[]
+   choice=[]
    var correctPrompts= collectPrompts();
    if(correctPrompts) {
    var newPassword = generatePassword();
@@ -78,7 +78,7 @@
    }
  
    if (confirm("Can do. How about numbers?")){
-       choiceArr = choice.concat(number);
+       choice = choice.concat(number);
      }
      else if (choice){
      }
@@ -88,7 +88,7 @@
 
  
   if (confirm("And finally, would you like any special characters?")){
-         choiceArr = choice.concat(specCharacter);
+         choice = choice.concat(specCharacter);
       }
       else if (choice){
       }
