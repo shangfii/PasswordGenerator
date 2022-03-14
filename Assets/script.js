@@ -66,19 +66,19 @@ function generatePassword() {
   }
  //  if false(cancel selection) then it will return nothing
 
-  else if (choiceArr) {
+  else if (choice) {
  } 
  else {
-   (choiceArr)
+   (choice)
    return false;
  }
   
   if (confirm("Cool!. Include Upppercase letters?")){
     choice = choice.concat(Uppercase);
   }
-  else if (choiceArr){
+  else if (choice){
   }
-  else{ (choiceArr)
+  else{ (choice)
    return false;
  
   }
