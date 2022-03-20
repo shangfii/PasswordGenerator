@@ -26,6 +26,9 @@ When the app Launches, Click on "Generate Password" to starte ussing the app.
 
 [Click here to use the app](https://shangfii.github.io/PasswordGenerator/)
 
+The image below shows how it works:
+![UseCase of Password generator](https://github.com/shangfii/PasswordGenerator/blob/main/Assets/images/useCase.gif?raw=true)
+
 
 ## Technologies used:
 
