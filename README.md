@@ -3,14 +3,14 @@
 
 Content 
 
-a. [Overview]()
+a. [Overview](https://github.com/shangfii/PasswordGenerator/blob/main/README.md#overview)
 
-b. [Technoligies]()
+b. [Technoligies](https://github.com/shangfii/PasswordGenerator/blob/main/README.md#technologies-used)
 
-c. [How use this as starter code]
+c. [How use this as starter code](https://github.com/shangfii/PasswordGenerator/blob/main/README.md#how-to-modify-this-application)
 
 
-d. [License]()
+d. [License](https://github.com/shangfii/PasswordGenerator/blob/main/LICENSE)
 
 ## Overview
 This app helps you generate a good and secure password using the criteria of your choice.
