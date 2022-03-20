@@ -18,6 +18,7 @@ When the app starts, you need to put in the number of characters to include in y
 The password genrator will them provide a series of prompts to guid you, and generate a secure passord which you can use any where.
 
 When the app Launches, Click on "Generate Password" to starte ussing the app.
+![Assets/images/Screen Shot 2022-03-20 at 2.22.31 PM.png]
 
 
 
