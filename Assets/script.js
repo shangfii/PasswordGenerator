@@ -46,7 +46,7 @@
  
  // Creating a prompt allowing us to choose our character amount.
    function collectPrompts() {
-   passLength = parseInt(prompt("Chose a Password length between 8-128 characters.\n Please enter your value below. "));
+   passLength = parseInt(prompt("Chose a Password of length between 8-128 characters.\n Please enter your value below. "));
  
    if (isNaN(passLength) || passLength <8 || passLength > 128) {
      alert("Invalide input! .\n Please try again; Enter a numeric value between 8-128. ");
@@ -66,7 +66,7 @@
     return false;
   }
    
-   if (confirm("Got it, would you likek to include Upppercase letters?")){
+   if (confirm("Got it, would you like to include Upppercase letters?")){
      choice = choice.concat(Uppercase);
    }
    else if (choice){
@@ -76,7 +76,7 @@
   
    }
  
-   if (confirm("Noted: Added some numeric (Numbers) character?")){
+   if (confirm("Noted: include numeric (Numbers) character?")){
        choice = choice.concat(number);
      }
      else if (choice){
