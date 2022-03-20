@@ -19,7 +19,7 @@ The password genrator will them provide a series of prompts to guid you, and gen
 
 When the app Launches, Click on "Generate Password" to starte ussing the app.
 
-![Password Generator button](Assets/images/Screen Shot 2022-03-20 at 2.22.31 PM.png)
+![Password Generator button](https://github.com/shangfii/PasswordGenerator/blob/main/Assets/images/Screen%20Shot%202022-03-20%20at%202.22.31%20PM.png?raw=true)
 
 
 
